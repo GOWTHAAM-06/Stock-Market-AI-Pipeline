@@ -1,3 +1,9 @@
+"""
+Author: Gowthaam L.
+Project: Stock Market AI Pipeline
+Description: This module generates visual trends from cleaned NSE stock data.
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
